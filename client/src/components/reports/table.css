@@ -1,0 +1,83 @@
+/*{
+    background-color: rgb(192, 111, 240);
+}*/
+
+.reactTable{
+    margin-left: 28%;
+    margin-top: 6%;
+    height: 50px ;
+    width: fit-content;
+    justify-content: center;
+}
+
+.header{
+    /* margin-left: 35%; */
+    margin-top: 2%;
+    text-align: center;
+    /* margin-right: 38%; */
+    font-family: "Consolas";
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    font-weight: bolder;
+    /*text-decoration: underline;*/
+    background-color: rgb(0, 8, 116);
+}
+
+thead{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    background-color: rgb(83, 166, 243);
+    color: rgb(0, 0, 0);
+}
+
+tbody{
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    background-color: rgb(0, 8, 116); 
+    color: white;
+}
+
+.risk-chart-title{
+    margin-top: 26%;
+    text-align: center;
+    /* margin-right: 38%; */
+    font-family: "Consolas";
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    font-weight: bolder;
+    background-color: rgb(0, 8, 116);
+}
+
+.team-wise-employee{
+    position: absolute;
+    margin-top: 2%;
+    margin-left: 62%;
+    font-family: "Consolas";
+    font-size: 20px;
+}
+
+.drop-down{
+    margin-left: 45%;
+}
+
+.drop-down-title{
+    padding-bottom: 15px;
+    position: relative;
+    margin-left: 43%;
+    font-family: "Consolas";
+    font-size: 20px;
+}
+
+.risk-chart-department{
+    position: absolute;
+    margin-top: 2%;
+    margin-left: 2%;
+    font-family: "Consolas";
+    font-size: 20px;
+}
+
+.singleDept{
+    position: absolute;
+    margin-top: 5%;
+    font-size: 20px;
+}

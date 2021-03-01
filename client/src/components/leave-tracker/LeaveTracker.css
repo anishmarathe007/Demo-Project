@@ -1,0 +1,60 @@
+.leave-tracker-title{
+    margin-top: 2%;
+    text-align: center;
+    font-size: 35px;
+    font-family: Consolas;
+    font-weight: bolder;
+    color: rgb(250, 193, 6);
+}
+.select{
+    width: 800px;
+    margin-left: 7%;
+    margin-top: 2%;
+    position: absolute;
+}
+
+
+.select-emp{
+    position: relative;
+    float: left;
+    margin-top: 2%;
+    margin-left: 50%;
+}
+.select-font{
+    color: rgb(250, 193, 6);
+    font-size: 20px;
+    font-family: consolas;
+}
+
+.emp-name{
+    position: relative;
+    margin-top: 2%;
+    float: right;
+    color: rgb(250, 193, 6);
+    font-size: 20px;
+    font-family: consolas;
+}
+
+.table-one{
+    position: relative;
+    margin-top: 5%;
+    margin-right: 10%;
+    color: rgb(250, 193, 6);
+    font-size: 20px;
+    font-family: consolas;
+    float: right;
+}
+
+.table-two{
+    position: relative;
+    margin-top: -12%;
+    margin-left: 85%;
+    color: rgb(250, 193, 6);
+    font-size: 20px;
+    font-family: consolas;
+    float: right;
+}
+
+*{
+    background-color: black;
+}
